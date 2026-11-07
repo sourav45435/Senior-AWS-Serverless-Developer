@@ -1,0 +1,8 @@
+{
+  "name": "Remix ERP AI Agent Platform",
+  "description": "Secure, serverless AI agents for SaaS ERP data management with human-in-the-loop approvals and verifiable task-based implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
